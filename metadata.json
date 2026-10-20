@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Neyriz Cement HSE",
+  "description": "Premium HSE Management System for White Cement Neyriz Plant (سامانه جامع اچ‌اس‌یی کارخانه سیمان سفید نیریز) featuring emergency response, PPE tracking, occupational health, training, QR inspections, executive dashboards, and AI HSE Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
